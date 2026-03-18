@@ -22,8 +22,8 @@
 
 ### 1. Клонируйте репозиторий
 ```bash
-git clone https://github.com/serejka-xaker/telegram-saas-platform.git
-cd telegram-saas-platform
+git clone https://github.com/serejka-xaker/Telegram-Saas-Platform.git
+cd Telegram-Saas-Platform
 ```
 ### 2. Скопируйте шаблон переменных окружения
 ```bash
