@@ -31,7 +31,7 @@ cp .env.example .env
 ```
 ### 3. Заполните файл .env необходимыми значениями
 ```env
-TOKEN = "Токен вашего Telegram-бота"
+TOKEN="Токен вашего Telegram-бота"
 POSTGRES_USER=имя_пользователя базы_данных
 POSTGRES_PASSWORD=пароль пользователя базы данных
 POSTGRES_DB=konstruktor_db
